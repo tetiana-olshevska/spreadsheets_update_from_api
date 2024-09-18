@@ -10,3 +10,4 @@ So, with this application user enters any date period and gets exchange rates in
 * Sale Rate - Sale rate of Privatbank
 * Purchase Rate - Purchase rate of Privatbank
 
+If fields for date values `update_to` and `update_from` are not specified by user, they are set to current date by default.
