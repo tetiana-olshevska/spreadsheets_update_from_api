@@ -1,8 +1,8 @@
 # Spreadsheets update from API
 
-The task was to get exchange rates from API of choice (mine was - https://api.privatbank.ua/p24api/exchange_rates?json as you can access archive data). Then theese exchange rates should be uploaded to Google Spreadsheets and updated due to dates that user may enter. 
+The task is to get exchange rates from API of choice (mine is - https://api.privatbank.ua/p24api/exchange_rates?json as you can access archive data). Then theese exchange rates should be uploaded to Google Spreadsheets and updated due to dates that user may enter. 
 
-So, with this application user enters any date period and gets exchange rates in desired Google Spreadsheet by columns:
+So, with this application user enters any date period within last 4 years and gets exchange rates in desired Google Spreadsheet by columns:
 * Date
 * Currency
 * Sale Rate NB - Sale rate of National Bank of Ukraine
